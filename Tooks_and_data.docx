@@ -1,5 +1,0 @@
-mongodb email=kshitijdabral1999@gmail.com
-mongodbUser=kshitijdabral1999
-password=DoZ3xWy15gZxYpJo
-connection String = mongodb+srv://kshitijdabral1999:DoZ3xWy15gZxYpJo@cluster0.heohscr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-visitThisLink= https://www.mongodb.com/docs/drivers/java/sync/current/get-started/#add-mongodb-as-a-dependency
